@@ -1,3 +1,4 @@
+//code from http://rosettacode.org/wiki/Combinations
 with Ada.Text_IO;  use Ada.Text_IO;
  
 procedure Test_Combinations is
